@@ -9,7 +9,7 @@ import {
 const CallDetectPage = () => {
     return (
         <View>
-            <Text>Call Detect</Text>
+            <Text>Call Detect test</Text>
         </View>
     )
 }
