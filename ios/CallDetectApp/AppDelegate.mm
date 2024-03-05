@@ -28,4 +28,9 @@
 #endif
 }
 
+
+- (void)applicationWillTerminate:(UIApplication *)application {
+  NSLog(@"END-------------------------");
+}
+
 @end
